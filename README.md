@@ -2,5 +2,9 @@
  A simple to-do list application written in the Python programming language using the Streamlit library.
  
 # What I Learned?
-- Defined functions which appends a new to-do item to the existing list of to-dos, and then writes the updated list of to-dos back to the file.
-- Sets the title and subheader of the app and displays the to-do items in a checkbox format, allowing the user to check off completed items. An option is also given to add new to-do items.
+- How to use the Streamlit library to create a simple web-based application in Python.
+- How to create a user interface with checkboxes and a text input field.
+- How to use session_state to save user input and the state of the app.
+- How to read and write data to a file using functions from an imported module.
+- Basic programming concept such as variable assignment, loop, function definition and calling function.
+- How to use enumerate function to iterate through a list of items.
